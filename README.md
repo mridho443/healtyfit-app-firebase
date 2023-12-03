@@ -1,4 +1,4 @@
-# uts
+# HealtyFit-App With Firebase
 
 A new Flutter project.
 
